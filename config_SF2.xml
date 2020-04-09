@@ -8,8 +8,8 @@
     <item PlatformID="5" Name="WinStore" />
   </platform>
   <versions>
-    <item ID="8" PlatformID="2" Version="1.9.38" ReleaseDate="1480683600" />
-    <item ID="9" PlatformID="1" Version="1.9.38" ReleaseDate="1480683600" />
+    <item ID="8" PlatformID="2" Version="1.9.21" ReleaseDate="1480683600" />
+    <item ID="9" PlatformID="1" Version="1.9.21" ReleaseDate="1480683600" />
     <item ID="10" PlatformID="4" Version="1.9.4" ReleaseDate="1425045600" />
     <item ID="11" PlatformID="5" Version="1.7.15" ReleaseDate="1424440800" />
   </versions>
@@ -45,10 +45,10 @@
     <item ID="41" Url="https://assets.nekkimobile.ru/shadowfight/data/HV_17_OFF_2017-02-21_16-58.dz" MinVersion="1.9.27" PlatformID="1" Name="NY16_off_2017-01-10_12-42" Active="1" Hash="fa339acf3b699b547b9f53f4f01898e9" />
     <item ID="42" Url="https://assets.nekkimobile.ru/shadowfight/data/HV_17_OFF_2017-02-21_16-58.dz" MinVersion="1.9.27" PlatformID="2" Name="NY16_off_2017-01-10_12-42" Active="1" Hash="fa339acf3b699b547b9f53f4f01898e9" />
     <item ID="42" Url="https://assets.nekkimobile.ru/shadowfight/data/NY17_FIX_ITEM.dz" MinVersion="1.9.33" PlatformID="1" Name="NY17_FIX_ITEM.dz" Active="1" Hash="9917c75e349dd2fea440e14846a6fd8c" />
-    <!-- <item ID="44" Url="https://assets.nekkimobile.ru/shadowfight/data/HW18_2018-10-11_12-41.dz" MinVersion="1.9.38" PlatformID="1" Name="HW18_2018-10-11_12-41.dz" Active="1" Hash="41999e38edd61f0a26e93ac70903bf24" /> -->
-    <!-- <item ID="44" Url="https://assets.nekkimobile.ru/shadowfight/data/HW18_2018-10-11_12-41.dz" MinVersion="1.9.38" PlatformID="2" Name="HW18_2018-10-11_12-41.dz" Active="1" Hash="41999e38edd61f0a26e93ac70903bf24" /> -->
-    <item ID="44" Url="https://assets.nekkimobile.ru/shadowfight/data/new_3rd_boss_v2_2018-12-20_13-35.dz" MinVersion="1.9.38" PlatformID="1" Name="new_3rd_boss_v2_2018-12-20_13-35.dz" Active="1" Hash="61b5b84e3095aa23ce0a7ceef181add7" />
-    <item ID="44" Url="https://assets.nekkimobile.ru/shadowfight/data/new_3rd_boss_v2_2018-12-20_13-35.dz" MinVersion="1.9.38" PlatformID="2" Name="new_3rd_boss_v2_2018-12-20_13-35.dz" Active="1" Hash="61b5b84e3095aa23ce0a7ceef181add7" />
+    <!-- <item ID="44" Url="https://assets.nekkimobile.ru/shadowfight/data/HW18_2018-10-11_12-41.dz" MinVersion="1.9.21" PlatformID="1" Name="HW18_2018-10-11_12-41.dz" Active="1" Hash="41999e38edd61f0a26e93ac70903bf24" /> -->
+    <!-- <item ID="44" Url="https://assets.nekkimobile.ru/shadowfight/data/HW18_2018-10-11_12-41.dz" MinVersion="1.9.21" PlatformID="2" Name="HW18_2018-10-11_12-41.dz" Active="1" Hash="41999e38edd61f0a26e93ac70903bf24" /> -->
+    <item ID="44" Url="https://assets.nekkimobile.ru/shadowfight/data/new_3rd_boss_v2_2018-12-20_13-35.dz" MinVersion="1.9.21" PlatformID="1" Name="new_3rd_boss_v2_2018-12-20_13-35.dz" Active="1" Hash="61b5b84e3095aa23ce0a7ceef181add7" />
+    <item ID="44" Url="https://assets.nekkimobile.ru/shadowfight/data/new_3rd_boss_v2_2018-12-20_13-35.dz" MinVersion="1.9.21" PlatformID="2" Name="new_3rd_boss_v2_2018-12-20_13-35.dz" Active="1" Hash="61b5b84e3095aa23ce0a7ceef181add7" />
   </gamedata>
   <sf3icons>
     <item Name="ios4" PlatformID="1" EndDate="1529539200" StartDate="" ImageURL="https://assets.nekkimobile.ru/shadowfight/sf3_icons/1536/soccer/btn_football_icon_SF3.png" ImageSmallURL="https://assets.nekkimobile.ru/shadowfight/sf3_icons/768/soccer/btn_football_icon_SF3.png" />
@@ -181,10 +181,10 @@
     <item ID="4" Name="kor" Url="https://assets.nekkimobile.ru/shadowfight/fonts/korea_2017-02-22_12-56.dz" MinVersion="1.9.28" Active="1" Attach="0" Hash="b72b21faa3cc8b4cd313eae18dee0dc2" Size="19.2" />
     <item ID="5" Name="chn" Url="https://assets.nekkimobile.ru/shadowfight/fonts/chn_simpl_2017-02-22_12-57.dz" MinVersion="1.9.28" Active="1" Attach="0" Hash="8753dafdff725d53caaeb5d0f7a5240d" Size="23.3" />
     <item ID="6" Name="chn_tr" Url="https://assets.nekkimobile.ru/shadowfight/fonts/chn_trd_2017-02-22_12-58.dz" MinVersion="1.9.28" Active="1" Attach="0" Hash="cb6456c17e34e7c1fe244d19022d1b20" Size="23.5" />
-    <!-- 1.9.38 new fonts -->
-    <item ID="10" Name="jpn" Url="https://assets.nekkimobile.ru/shadowfight/fonts/jpn_2018-06-27_13-05.dz" MinVersion="1.9.38" Active="1" Attach="0" Hash="447c168eb559f2766f7c37e771e7d52a" Size="16.3" />
-    <item ID="10" Name="chn" Url="https://assets.nekkimobile.ru/shadowfight/fonts/chn_simple_2018-06-27_13-00.dz" MinVersion="1.9.38" Active="1" Attach="0" Hash="60523788eae73c90f6de7fdf9ef29957" Size="16.8" />
-    <item ID="10" Name="chn_tr" Url="https://assets.nekkimobile.ru/shadowfight/fonts/chn_trad_2018-06-27_13-01.dz" MinVersion="1.9.38" Active="1" Attach="0" Hash="672320c720a9eb784334de72768f192e" Size="16.9" />
+    <!-- 1.9.21 new fonts -->
+    <item ID="10" Name="jpn" Url="https://assets.nekkimobile.ru/shadowfight/fonts/jpn_2018-06-27_13-05.dz" MinVersion="1.9.21" Active="1" Attach="0" Hash="447c168eb559f2766f7c37e771e7d52a" Size="16.3" />
+    <item ID="10" Name="chn" Url="https://assets.nekkimobile.ru/shadowfight/fonts/chn_simple_2018-06-27_13-00.dz" MinVersion="1.9.21" Active="1" Attach="0" Hash="60523788eae73c90f6de7fdf9ef29957" Size="16.8" />
+    <item ID="10" Name="chn_tr" Url="https://assets.nekkimobile.ru/shadowfight/fonts/chn_trad_2018-06-27_13-01.dz" MinVersion="1.9.21" Active="1" Attach="0" Hash="672320c720a9eb784334de72768f192e" Size="16.9" />
   </fonts>
   <settings>
     <item ID="1" LogFrequency="64" LoginFrequency="900" DumpServerGet="https://shadowfight.dumps.nekkimobile.ru/get.php" DumpServerPut="https://shadowfight.dumps.nekkimobile.ru/put.php" ServerTimeUrl="https://time-server.nekkimobile.ru/time.json" CounterVideo="10" />
@@ -557,12 +557,12 @@
     <!-- 1.9.35 ST_V18-->
     <item ID="137" Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/packs/clan_ST_v18_2018-01-31_09-08.dz" MinVersion="1.9.35" PlatformID="2" Attach="1" ObjectNumber="7" Active="0" Reload="0" Size="11.5" Hash="82fe395fe1ba0429df55efa119a8f3b7" />
     <item ID="137" Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/packs/clan_ST_v18_2018-01-31_09-08.dz" MinVersion="1.9.35" PlatformID="1" Attach="1" ObjectNumber="7" Active="0" Reload="0" Size="11.5" Hash="82fe395fe1ba0429df55efa119a8f3b7" />
-    <!-- 1.9.38 new_boss-->
-    <!-- <item ID="137" Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/packs/clans_3rd_boss_2018-12-19_10-39.dz" MinVersion="1.9.38" PlatformID="2" Attach="1" ObjectNumber="7" Active="0" Reload="0" Size="17.5" Hash="82c1f730dd5a58dce25933f2518e3f63" /> -->
-    <!-- <item ID="137" Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/packs/clans_3rd_boss_2018-12-19_10-39.dz" MinVersion="1.9.38" PlatformID="1" Attach="1" ObjectNumber="7" Active="0" Reload="0" Size="17.5" Hash="82c1f730dd5a58dce25933f2518e3f63" /> -->
-    <!-- 1.9.38 new_boss - new iteration -->
-    <item ID="137" Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/packs/clans_3rd_boss_new_iteration_2019-01-30_11-00.dz" MinVersion="1.9.38" PlatformID="2" Attach="1" ObjectNumber="7" Active="0" Reload="0" Size="17.6" Hash="d079b8592542c0909d6b7631f2247831" />
-    <item ID="137" Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/packs/clans_3rd_boss_new_iteration_2019-01-30_11-00.dz" MinVersion="1.9.38" PlatformID="1" Attach="1" ObjectNumber="7" Active="0" Reload="0" Size="17.6" Hash="d079b8592542c0909d6b7631f2247831" />
+    <!-- 1.9.21 new_boss-->
+    <!-- <item ID="137" Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/packs/clans_3rd_boss_2018-12-19_10-39.dz" MinVersion="1.9.21" PlatformID="2" Attach="1" ObjectNumber="7" Active="0" Reload="0" Size="17.5" Hash="82c1f730dd5a58dce25933f2518e3f63" /> -->
+    <!-- <item ID="137" Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/packs/clans_3rd_boss_2018-12-19_10-39.dz" MinVersion="1.9.21" PlatformID="1" Attach="1" ObjectNumber="7" Active="0" Reload="0" Size="17.5" Hash="82c1f730dd5a58dce25933f2518e3f63" /> -->
+    <!-- 1.9.21 new_boss - new iteration -->
+    <item ID="137" Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/packs/clans_3rd_boss_new_iteration_2019-01-30_11-00.dz" MinVersion="1.9.21" PlatformID="2" Attach="1" ObjectNumber="7" Active="0" Reload="0" Size="17.6" Hash="d079b8592542c0909d6b7631f2247831" />
+    <item ID="137" Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/packs/clans_3rd_boss_new_iteration_2019-01-30_11-00.dz" MinVersion="1.9.21" PlatformID="1" Attach="1" ObjectNumber="7" Active="0" Reload="0" Size="17.6" Hash="d079b8592542c0909d6b7631f2247831" />
   </packs>
   <price>
     <!-- IOS price -->
